@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">PracticalTest01Var03</string>
+    <string name="naviagte_to_secondary_activity">naviagte_to_secondary_activity</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="remember_me_checkbox1">remember_me_checkbox1</string>
+    <string name="ok_button_content">ok_button_content</string>
+    <string name="cancel_button_content">cancel_button_content</string>
+    <string name="display_information">Display Information</string>
+    <string name="ok">OK</string>
+    <string name="remember_me_checkbox2">Remember me checkbox2</string>
+    <string name="nvg_to_sec_activ">Naviagte to secondary activity</string>
+    <string name="grupa">grupa</string>
 </resources>
